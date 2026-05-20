@@ -1,4 +1,4 @@
-# Java Cuccumber BDD AAutomation Project
+# Java Cuccumber BDD Automation Project
 
 BDD automation testing framework developed using:
 
